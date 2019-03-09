@@ -6,4 +6,5 @@ cilantro
 salt and pepper
 jalapenos
 onion
-seasoning 
+additional seasoning 
+
